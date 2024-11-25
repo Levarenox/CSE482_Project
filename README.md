@@ -6,7 +6,7 @@
 - <b>DBMS :</b> MySQL
 
 ### Contributors
-- <b>Mominul Islam</b> (Team Leader)
-- Meherun Nessa Maria
+- <b>Mominul Islam</b> 
 - Rifah Tasnia
+- Meherun Nessa Maria
 - Labiba Tahsin
